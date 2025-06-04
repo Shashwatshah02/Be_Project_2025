@@ -1,0 +1,10 @@
+Survey Report on Industrial Gas Pipeline Sizes and Suitability of IoT-Enabled Gas Leakage Detection Robot
+
+This survey aims to analyze the size variations in industrial gas pipelines to assess the suitability of the IoT-enabled gas leakage detection robot. The robot is designed to be manually adjusted based on pipe sizes; however, variations in pipe diameter along the pipeline could impact its functionality. The survey focuses on identifying patterns in pipeline sizing to determine the feasibility of deploying the robot in industrial settings.
+
+The following key aspects were analyzed:
+1. Data collected  indicated that a majority (approximately 85%) of pipelines maintain a consistent diameter throughout their length inorder to simplify maintenance procedures.
+
+2. When variations in pipeline diameter do occur, they are predominantly found at the terminations of pipeline sections. Changes in size are generally present near valves, junctions, and terminal outlets, rather than along the main pipeline routes.
+
+Based on the survey findings, the IoT-enabled gas leakage detection robot remains highly suitable for deployment in industrial environments. Since the majority of pipelines maintain a uniform size, the robot can efficiently operate along most of the pipeline length. Additionally, since changes in pipe diameter occur mainly at termination points and gas outlets, the robot can be manually adjusted or repositioned at these locations as required.
